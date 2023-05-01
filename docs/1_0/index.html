@@ -13,10 +13,12 @@
       window.$docsify = {
         name: 'flowcentral',
         loadSidebar: true,
-        coverpage: true,
         subMaxLevel: 1,
         themeColor: '#a0a0a0',
         logo:'/images/flowcentral_menu_logo.png',
+        coverpage: {
+            '/': 'cover.md'
+        },
         search: {
             namespace: '1_0'
         }
