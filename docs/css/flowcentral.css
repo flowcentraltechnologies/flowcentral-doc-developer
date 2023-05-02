@@ -1,0 +1,16 @@
+.cover {
+    background: linear-gradient(to left bottom, #747474, #161616) !important;
+    color: #ffffff;
+}
+
+.cover .anchor span {
+    color: #ffffff;
+}
+
+section.cover .cover-main > p:last-child a {
+    border-radius: 4px;
+}
+
+section.cover .cover-main > p:last-child a:last-child {
+    border-radius: 4px;
+}
