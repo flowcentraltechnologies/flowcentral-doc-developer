@@ -1,3 +1,8 @@
+.cover {
+    background-color: #a0a0a0 !important;
+    color: #ffffff;
+}
+
 .cover .anchor span {
     color: #ffffff;
 }
