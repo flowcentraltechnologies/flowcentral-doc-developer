@@ -1,5 +1,5 @@
 .cover {
-    background-color: #a0a0a0 !important;
+    background: linear-gradient(to left bottom, #a0a0a0, #555555) !important;
     color: #ffffff;
 }
 
